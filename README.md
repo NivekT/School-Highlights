@@ -1,5 +1,5 @@
 # School-Highlights
-Highlights of my school work
+This repo contains some highlights of my school works.
 
 Projects there are not included here but available upon request:
 
